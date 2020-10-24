@@ -1,0 +1,11 @@
+E:\FAL20\PRN292\Notepad\bin\Debug\Notepad.exe.config
+E:\FAL20\PRN292\Notepad\bin\Debug\Notepad.exe
+E:\FAL20\PRN292\Notepad\bin\Debug\Notepad.pdb
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.demo.resources
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.Notepad.resources
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.exe
+E:\FAL20\PRN292\Notepad\obj\Debug\Notepad.pdb

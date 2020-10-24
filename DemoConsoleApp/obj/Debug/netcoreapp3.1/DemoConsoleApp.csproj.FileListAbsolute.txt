@@ -1,0 +1,13 @@
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.exe
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.deps.json
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.runtimeconfig.json
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.runtimeconfig.dev.json
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.dll
+E:\FAL20\PRN292\DemoConsoleApp\bin\Debug\netcoreapp3.1\DemoConsoleApp.pdb
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.csprojAssemblyReference.cache
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.AssemblyInfoInputs.cache
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.AssemblyInfo.cs
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.dll
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.pdb
+E:\FAL20\PRN292\DemoConsoleApp\obj\Debug\netcoreapp3.1\DemoConsoleApp.genruntimeconfig.cache

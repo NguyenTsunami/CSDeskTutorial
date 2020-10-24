@@ -1,0 +1,10 @@
+E:\FAL20\PRN292\DemoToolboxDeskApp\bin\Debug\DemoToolboxDeskApp.exe.config
+E:\FAL20\PRN292\DemoToolboxDeskApp\bin\Debug\DemoToolboxDeskApp.exe
+E:\FAL20\PRN292\DemoToolboxDeskApp\bin\Debug\DemoToolboxDeskApp.pdb
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.csprojAssemblyReference.cache
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.CarDetail.resources
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.Properties.Resources.resources
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.csproj.GenerateResource.cache
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.exe
+E:\FAL20\PRN292\DemoToolboxDeskApp\obj\Debug\DemoToolboxDeskApp.pdb

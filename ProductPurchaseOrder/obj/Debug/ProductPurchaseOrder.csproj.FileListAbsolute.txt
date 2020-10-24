@@ -1,0 +1,11 @@
+E:\FAL20\PRN292\ProductPurchaseOrder\bin\Debug\ProductPurchaseOrder.exe.config
+E:\FAL20\PRN292\ProductPurchaseOrder\bin\Debug\ProductPurchaseOrder.exe
+E:\FAL20\PRN292\ProductPurchaseOrder\bin\Debug\ProductPurchaseOrder.pdb
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.csprojAssemblyReference.cache
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.PurchaseOrder.resources
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.Properties.Resources.resources
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.csproj.GenerateResource.cache
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.exe
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.pdb
+E:\FAL20\PRN292\ProductPurchaseOrder\obj\Debug\ProductPurchaseOrder.ProductDetail.resources

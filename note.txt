@@ -1,0 +1,48 @@
+# Form cha-con: tạo form hoạt động trong 1 vùng destop:
+ - set FormWindowState
+ - set MdiParent = parentForm
+ - set parentForm: isMdiContainer = true
+
+# Menustrip: tạo menubar
+ - ShortcutKey: tạo phím tắt
+ - Text: &... (tạo phím tắt dựa vào chữ cái đầu tiên)
+
+#StatusStrip: tạo statusbar (phía dưới mỗi form)
+
+#MaskedTextBox:
+ - Attribute: Mask: tạo pattern cho trường input
+ - Hide prompt-char when typing: 
+	"This is an old question, 
+	but hopefully this will help others stumbling upon the same issue. 
+	For me on .net 2.0 and above there is the property, 'HidePrompt', 
+	setting this to true hides the prompt text, 
+	until you click on the field. 
+	So, first set your prompt character to a space " ", 
+	and then change the 'InsertKeyMode' to "Insert", 
+	and then set the 'HidePrompt' to True. 
+	Changing the prompt character to a space prevents 
+	the prompt from being seen when the user clicks on it, 
+	hideprompt hides it in general, and insert mode takes 
+	the user to the beginning of the field instead of allowing them 
+	to click in the middle of the prompt character field."
+
+
+# Access DA via ADO: (Sử dụng DataAdapter) (Nếu sd Command ~ tương đương Java)
+ - Add:
+	-> Tạo hàng mới (DataRow): DataRow dr = <DataSet>ds.Tables[<DataTable>dt].newRow();
+	-> Gắn thông tin cho các trường: dr[<param>] = <value>;...
+	-> Sử dụng method Add để thêm hàng vào bảng: ds.Tables[<DataTable>].Rows.Add(dr);
+	-> Đẩy data từ DataSet vào database: 
+		SqlCommandBuilder builder = new SqlCommandBuilder(<DataAdapter>dap);
+		builder.GetUpdateCommand();
+		dap.Update(<DataSet> ds, <DataTable> dt);
+
+
+# BindingSource: move next, move last, ...
+
+
+
+
+
+
+

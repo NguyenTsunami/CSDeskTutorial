@@ -1,0 +1,12 @@
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.exe
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.deps.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.dev.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.dll
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\BT1.pdb
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.AssemblyInfoInputs.cache
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.AssemblyInfo.cs
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.dll
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.pdb
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\BT1.genruntimeconfig.cache

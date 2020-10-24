@@ -1,0 +1,10 @@
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.csprojAssemblyReference.cache
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.Properties.Resources.resources
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.csproj.GenerateResource.cache
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\VehiclePurchaseOrder\bin\Debug\VehiclePurchaseOrder.exe.config
+E:\FAL20\PRN292\VehiclePurchaseOrder\bin\Debug\VehiclePurchaseOrder.exe
+E:\FAL20\PRN292\VehiclePurchaseOrder\bin\Debug\VehiclePurchaseOrder.pdb
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.PurchaseOrder.resources
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.exe
+E:\FAL20\PRN292\VehiclePurchaseOrder\obj\Debug\VehiclePurchaseOrder.pdb

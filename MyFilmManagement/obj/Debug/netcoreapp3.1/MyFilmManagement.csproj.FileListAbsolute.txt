@@ -1,0 +1,13 @@
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.exe
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.deps.json
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.runtimeconfig.json
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.runtimeconfig.dev.json
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.dll
+E:\FAL20\PRN292\MyFilmManagement\bin\Debug\netcoreapp3.1\MyFilmManagement.pdb
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.csprojAssemblyReference.cache
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.AssemblyInfoInputs.cache
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.AssemblyInfo.cs
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.dll
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.pdb
+E:\FAL20\PRN292\MyFilmManagement\obj\Debug\netcoreapp3.1\MyFilmManagement.genruntimeconfig.cache

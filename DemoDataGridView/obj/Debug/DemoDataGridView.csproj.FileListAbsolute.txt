@@ -1,0 +1,10 @@
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.csprojAssemblyReference.cache
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.Properties.Resources.resources
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.CustomerManagement.resources
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.GenerateResource.cache
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\DemoDataGridView\bin\Debug\DemoDataGridView.exe.config
+E:\FAL20\PRN292\DemoDataGridView\bin\Debug\DemoDataGridView.exe
+E:\FAL20\PRN292\DemoDataGridView\bin\Debug\DemoDataGridView.pdb
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.exe
+E:\FAL20\PRN292\DemoDataGridView\obj\Debug\DemoDataGridView.pdb

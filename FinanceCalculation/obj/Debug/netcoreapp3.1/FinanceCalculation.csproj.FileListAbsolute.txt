@@ -1,0 +1,13 @@
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.exe
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.deps.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.runtimeconfig.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.runtimeconfig.dev.json
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.dll
+E:\FAL20\PRN292\FinanceCalculation\bin\Debug\netcoreapp3.1\FinanceCalculation.pdb
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.csprojAssemblyReference.cache
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.AssemblyInfoInputs.cache
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.AssemblyInfo.cs
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.dll
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.pdb
+E:\FAL20\PRN292\FinanceCalculation\obj\Debug\netcoreapp3.1\FinanceCalculation.genruntimeconfig.cache

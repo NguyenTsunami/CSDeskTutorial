@@ -1,0 +1,11 @@
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\bin\Debug\DemoAccessDatabaseViaADO.exe.config
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\bin\Debug\DemoAccessDatabaseViaADO.exe
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\bin\Debug\DemoAccessDatabaseViaADO.pdb
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.csprojAssemblyReference.cache
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.Properties.Resources.resources
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.csproj.GenerateResource.cache
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.exe
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.pdb
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.CustomerManagement.resources
+E:\FAL20\PRN292\DemoAccessDatabaseViaADO\obj\Debug\DemoAccessDatabaseViaADO.view.CustomerDetails.resources

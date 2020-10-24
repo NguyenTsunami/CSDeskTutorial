@@ -1,0 +1,10 @@
+E:\FAL20\PRN292\DemoDeskApp\bin\Debug\DemoDeskApp.exe.config
+E:\FAL20\PRN292\DemoDeskApp\bin\Debug\DemoDeskApp.exe
+E:\FAL20\PRN292\DemoDeskApp\bin\Debug\DemoDeskApp.pdb
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.csprojAssemblyReference.cache
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.Properties.Resources.resources
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.csproj.GenerateResource.cache
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.csproj.CoreCompileInputs.cache
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.exe
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.pdb
+E:\FAL20\PRN292\DemoDeskApp\obj\Debug\DemoDeskApp.QuadraticEquationTwoCalculatorForm.resources
